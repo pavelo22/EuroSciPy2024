@@ -10,7 +10,7 @@ class Vector:
         return f'Vector({self.x}, {self.y})'
 
     def __mul__(self, number):
-        return ...  # <---- put your answer here
+        return ...  # <---- put your code here
         
 v1 = Vector(10, 20)
 v2 = Vector(50, 60)
